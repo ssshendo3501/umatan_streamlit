@@ -1,0 +1,19 @@
+# 一時ファイル
+*.log
+*.tmp
+.DS_Store
+
+# Python 関連
+__pycache__/
+*.pyc
+
+# Jupyter Notebook のチェックポイント
+.ipynb_checkpoints/
+
+# VSCode の設定ファイル
+.vscode/
+
+# 環境構築関連
+env/
+venv/
+node_modules/
